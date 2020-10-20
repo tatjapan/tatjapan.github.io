@@ -2,6 +2,9 @@
 
 Seattle Mariners coloring book app developed with Flutter for Web.
 
+## Demo
+https://tatjapan.github.io/mariners_coloring_notes/
+
 ## How To Play
 #### 1. Choose your favorite coloring image.
 ![screen_shot_1](mariners_coloring_notes\assets\assets\images\htp_1.gif)
